@@ -1,0 +1,5 @@
+// THIS FILE IS AUTO GENERATED
+var GenIcon = require('../lib').GenIcon
+module.exports.TbVirusSearch = function TbVirusSearch (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M17 12a5 5 0 1 0 -5 5"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(45 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(90 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(180 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(225 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(270 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(315 12 12)"}},{"tag":"circle","attr":{"cx":"17.5","cy":"17.5","r":"2.5"}},{"tag":"line","attr":{"x1":"19.5","y1":"19.5","x2":"22","y2":"22"}}]})(props);
+};
