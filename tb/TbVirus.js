@@ -1,0 +1,5 @@
+// THIS FILE IS AUTO GENERATED
+var GenIcon = require('../lib').GenIcon
+module.exports.TbVirus = function TbVirus (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"circle","attr":{"cx":"12","cy":"12","r":"5"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(45 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(90 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(135 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(180 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(225 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(270 12 12)"}},{"tag":"path","attr":{"d":"M12 7v-4m-1 0h2","transform":"rotate(315 12 12)"}}]})(props);
+};

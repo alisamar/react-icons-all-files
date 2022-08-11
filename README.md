@@ -66,7 +66,7 @@ Icon Library|License|Version|Count
 [Typicons](http://s-ings.com/typicons/)|[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)|2.1.2|336
 [Github Octicons icons](https://octicons.github.com/)|[MIT](https://github.com/primer/octicons/blob/master/LICENSE)|8.5.0|184
 [Feather](https://feathericons.com/)|[MIT](https://github.com/feathericons/feather/blob/master/LICENSE)|4.28.0|286
-[Game Icons](https://game-icons.net/)|[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)|12920d6565588f0512542a3cb0cdfd36a497f910|4040
+[Game Icons](https://game-icons.net/)|[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)12920d6565588f0512542a3cb0cdfd36a497f910|4040
 [Weather Icons](https://erikflowers.github.io/weather-icons/)|[SIL OFL 1.1](http://scripts.sil.org/OFL)|2.0.12|219
 [Devicons](https://vorillaz.github.io/devicons/)|[MIT](https://opensource.org/licenses/MIT)|1.8.0|192
 [Ant Design Icons](https://github.com/ant-design/ant-design-icons)|[MIT](https://opensource.org/licenses/MIT)|4.2.1|789
@@ -80,6 +80,7 @@ Icon Library|License|Version|Count
 [BoxIcons](https://github.com/atisawd/boxicons)|[CC BY 4.0 License](undefined)|2.0.9|757
 [css.gg](https://github.com/astrit/css.gg)|[MIT](https://opensource.org/licenses/MIT)|2.0.0|704
 [VS Code Icons](https://github.com/microsoft/vscode-codicons)|[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)|0.0.23|383
+[Tabler Icons](https://github.com/tabler/tabler-icons)|[MIT](https://opensource.org/licenses/MIT)|1.68.0|1978
 
 
 You can add more icons by submitting pull requests or creating issues.
