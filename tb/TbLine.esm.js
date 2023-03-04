@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function TbLine (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"circle","attr":{"cx":"6","cy":"18","r":"2"}},{"tag":"circle","attr":{"cx":"18","cy":"6","r":"2"}},{"tag":"line","attr":{"x1":"7.5","y1":"16.5","x2":"16.5","y2":"7.5"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M6 18m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"}},{"tag":"path","attr":{"d":"M18 6m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"}},{"tag":"path","attr":{"d":"M7.5 16.5l9 -9"}}]})(props);
 };

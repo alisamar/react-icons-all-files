@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function TbCompass (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"polyline","attr":{"points":"8 16 10 10 16 8 14 14 8 16"}},{"tag":"circle","attr":{"cx":"12","cy":"12","r":"9"}},{"tag":"line","attr":{"x1":"12","y1":"3","x2":"12","y2":"5"}},{"tag":"line","attr":{"x1":"12","y1":"19","x2":"12","y2":"21"}},{"tag":"line","attr":{"x1":"3","y1":"12","x2":"5","y2":"12"}},{"tag":"line","attr":{"x1":"19","y1":"12","x2":"21","y2":"12"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M8 16l2 -6l6 -2l-2 6l-6 2"}},{"tag":"path","attr":{"d":"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"}},{"tag":"path","attr":{"d":"M12 3l0 2"}},{"tag":"path","attr":{"d":"M12 19l0 2"}},{"tag":"path","attr":{"d":"M3 12l2 0"}},{"tag":"path","attr":{"d":"M19 12l2 0"}}]})(props);
 };

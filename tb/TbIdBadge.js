@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbIdBadge = function TbIdBadge (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"rect","attr":{"x":"5","y":"3","width":"14","height":"18","rx":"3"}},{"tag":"circle","attr":{"cx":"12","cy":"13","r":"2"}},{"tag":"path","attr":{"d":"M10 6h4"}},{"tag":"path","attr":{"d":"M9 18h6"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M5 3m0 3a3 3 0 0 1 3 -3h8a3 3 0 0 1 3 3v12a3 3 0 0 1 -3 3h-8a3 3 0 0 1 -3 -3z"}},{"tag":"path","attr":{"d":"M12 13m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"}},{"tag":"path","attr":{"d":"M10 6h4"}},{"tag":"path","attr":{"d":"M9 18h6"}}]})(props);
 };

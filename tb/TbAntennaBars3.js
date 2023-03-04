@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbAntennaBars3 = function TbAntennaBars3 (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"line","attr":{"x1":"6","y1":"18","x2":"6","y2":"15"}},{"tag":"line","attr":{"x1":"10","y1":"18","x2":"10","y2":"12"}},{"tag":"line","attr":{"x1":"14","y1":"18","x2":"14","y2":"18.01"}},{"tag":"line","attr":{"x1":"18","y1":"18","x2":"18","y2":"18.01"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M6 18l0 -3"}},{"tag":"path","attr":{"d":"M10 18l0 -6"}},{"tag":"path","attr":{"d":"M14 18l0 .01"}},{"tag":"path","attr":{"d":"M18 18l0 .01"}}]})(props);
 };
