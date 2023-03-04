@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbZoomCancel = function TbZoomCancel (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"circle","attr":{"cx":"10","cy":"10","r":"7"}},{"tag":"line","attr":{"x1":"8","y1":"8","x2":"12","y2":"12"}},{"tag":"line","attr":{"x1":"12","y1":"8","x2":"8","y2":"12"}},{"tag":"line","attr":{"x1":"21","y1":"21","x2":"15","y2":"15"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0"}},{"tag":"path","attr":{"d":"M8 8l4 4"}},{"tag":"path","attr":{"d":"M12 8l-4 4"}},{"tag":"path","attr":{"d":"M21 21l-6 -6"}}]})(props);
 };

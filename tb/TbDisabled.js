@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbDisabled = function TbDisabled (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"circle","attr":{"cx":"11","cy":"5","r":"2"}},{"tag":"polyline","attr":{"points":"11 7 11 15 15 15 19 20"}},{"tag":"line","attr":{"x1":"11","y1":"11","x2":"16","y2":"11"}},{"tag":"path","attr":{"d":"M7 11.5a5 5 0 1 0 6 7.5"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M11 5m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"}},{"tag":"path","attr":{"d":"M11 7l0 8l4 0l4 5"}},{"tag":"path","attr":{"d":"M11 11l5 0"}},{"tag":"path","attr":{"d":"M7 11.5a5 5 0 1 0 6 7.5"}}]})(props);
 };

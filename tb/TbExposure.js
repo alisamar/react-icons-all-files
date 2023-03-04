@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbExposure = function TbExposure (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"rect","attr":{"x":"4","y":"4","width":"16","height":"16","rx":"2"}},{"tag":"line","attr":{"x1":"4.6","y1":"19.4","x2":"19.4","y2":"4.6"}},{"tag":"path","attr":{"d":"M7 9h4m-2 -2v4"}},{"tag":"line","attr":{"x1":"13","y1":"16","x2":"17","y2":"16"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z"}},{"tag":"path","attr":{"d":"M4.6 19.4l14.8 -14.8"}},{"tag":"path","attr":{"d":"M7 9h4m-2 -2v4"}},{"tag":"path","attr":{"d":"M13 16l4 0"}}]})(props);
 };

@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbId = function TbId (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"rect","attr":{"x":"3","y":"4","width":"18","height":"16","rx":"3"}},{"tag":"circle","attr":{"cx":"9","cy":"10","r":"2"}},{"tag":"line","attr":{"x1":"15","y1":"8","x2":"17","y2":"8"}},{"tag":"line","attr":{"x1":"15","y1":"12","x2":"17","y2":"12"}},{"tag":"line","attr":{"x1":"7","y1":"16","x2":"17","y2":"16"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M3 4m0 3a3 3 0 0 1 3 -3h12a3 3 0 0 1 3 3v10a3 3 0 0 1 -3 3h-12a3 3 0 0 1 -3 -3z"}},{"tag":"path","attr":{"d":"M9 10m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"}},{"tag":"path","attr":{"d":"M15 8l2 0"}},{"tag":"path","attr":{"d":"M15 12l2 0"}},{"tag":"path","attr":{"d":"M7 16l10 0"}}]})(props);
 };

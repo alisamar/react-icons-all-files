@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function TbDeviceSpeaker (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"rect","attr":{"x":"5","y":"3","width":"14","height":"18","rx":"2"}},{"tag":"circle","attr":{"cx":"12","cy":"14","r":"3"}},{"tag":"line","attr":{"x1":"12","y1":"7","x2":"12","y2":"7.01"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M5 3m0 2a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v14a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2z"}},{"tag":"path","attr":{"d":"M12 14m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"}},{"tag":"path","attr":{"d":"M12 7l0 .01"}}]})(props);
 };

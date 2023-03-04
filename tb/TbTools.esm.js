@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function TbTools (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M3 21h4l13 -13a1.5 1.5 0 0 0 -4 -4l-13 13v4"}},{"tag":"line","attr":{"x1":"14.5","y1":"5.5","x2":"18.5","y2":"9.5"}},{"tag":"polyline","attr":{"points":"12 8 7 3 3 7 8 12"}},{"tag":"line","attr":{"x1":"7","y1":"8","x2":"5.5","y2":"9.5"}},{"tag":"polyline","attr":{"points":"16 12 21 17 17 21 12 16"}},{"tag":"line","attr":{"x1":"16","y1":"17","x2":"14.5","y2":"18.5"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M3 21h4l13 -13a1.5 1.5 0 0 0 -4 -4l-13 13v4"}},{"tag":"path","attr":{"d":"M14.5 5.5l4 4"}},{"tag":"path","attr":{"d":"M12 8l-5 -5l-4 4l5 5"}},{"tag":"path","attr":{"d":"M7 8l-1.5 1.5"}},{"tag":"path","attr":{"d":"M16 12l5 5l-4 4l-5 -5"}},{"tag":"path","attr":{"d":"M16 17l-1.5 1.5"}}]})(props);
 };

@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function TbArrowsDiagonal (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"polyline","attr":{"points":"16 4 20 4 20 8"}},{"tag":"line","attr":{"x1":"14","y1":"10","x2":"20","y2":"4"}},{"tag":"polyline","attr":{"points":"8 20 4 20 4 16"}},{"tag":"line","attr":{"x1":"4","y1":"20","x2":"10","y2":"14"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M16 4l4 0l0 4"}},{"tag":"path","attr":{"d":"M14 10l6 -6"}},{"tag":"path","attr":{"d":"M8 20l-4 0l0 -4"}},{"tag":"path","attr":{"d":"M4 20l6 -6"}}]})(props);
 };

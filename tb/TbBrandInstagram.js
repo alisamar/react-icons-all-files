@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbBrandInstagram = function TbBrandInstagram (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"rect","attr":{"x":"4","y":"4","width":"16","height":"16","rx":"4"}},{"tag":"circle","attr":{"cx":"12","cy":"12","r":"3"}},{"tag":"line","attr":{"x1":"16.5","y1":"7.5","x2":"16.5","y2":"7.501"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M4 4m0 4a4 4 0 0 1 4 -4h8a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-8a4 4 0 0 1 -4 -4z"}},{"tag":"path","attr":{"d":"M12 12m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"}},{"tag":"path","attr":{"d":"M16.5 7.5l0 .01"}}]})(props);
 };

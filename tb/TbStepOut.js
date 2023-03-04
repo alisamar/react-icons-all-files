@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbStepOut = function TbStepOut (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"desc","attr":{},"child":[]},{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"line","attr":{"x1":"12","y1":"3","x2":"12","y2":"15"}},{"tag":"line","attr":{"x1":"16","y1":"7","x2":"12","y2":"3"}},{"tag":"line","attr":{"x1":"8","y1":"7","x2":"12","y2":"3"}},{"tag":"circle","attr":{"cx":"12","cy":"20","r":"1"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M12 3l0 12"}},{"tag":"path","attr":{"d":"M16 7l-4 -4"}},{"tag":"path","attr":{"d":"M8 7l4 -4"}},{"tag":"path","attr":{"d":"M12 20m-1 0a1 1 0 1 0 2 0a1 1 0 1 0 -2 0"}}]})(props);
 };
