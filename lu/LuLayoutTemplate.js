@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.LuLayoutTemplate = function LuLayoutTemplate (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"d":"M21 3H3v7h18V3z"}},{"tag":"path","attr":{"d":"M21 14h-5v7h5v-7z"}},{"tag":"path","attr":{"d":"M12 14H3v7h9v-7z"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"rect","attr":{"width":"18","height":"7","x":"3","y":"3","rx":"1"}},{"tag":"rect","attr":{"width":"9","height":"7","x":"3","y":"14","rx":"1"}},{"tag":"rect","attr":{"width":"5","height":"7","x":"16","y":"14","rx":"1"}}]})(props);
 };
