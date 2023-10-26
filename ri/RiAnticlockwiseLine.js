@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.RiAnticlockwiseLine = function RiAnticlockwiseLine (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"g","attr":{},"child":[{"tag":"path","attr":{"fill":"none","d":"M0 0h24v24H0z"}},{"tag":"path","attr":{"fillRule":"nonzero","d":"M11 9h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1H11a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1zm1 2v8h8v-8h-8zm-6-.414l1.828-1.829 1.415 1.415L5 14.414.757 10.172l1.415-1.415L4 10.586V8a5 5 0 0 1 5-5h4v2H9a3 3 0 0 0-3 3v2.586z"}}]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M11.0005 9H21.0005C21.5527 9 22.0005 9.44772 22.0005 10V20C22.0005 20.5523 21.5527 21 21.0005 21H11.0005C10.4482 21 10.0005 20.5523 10.0005 20V10C10.0005 9.44772 10.4482 9 11.0005 9ZM12.0005 11V19H20.0005V11H12.0005ZM6.00045 10.5858L7.82888 8.75736L9.24309 10.1716L5.00045 14.4142L0.757812 10.1716L2.17203 8.75736L4.00045 10.5858V8C4.00045 5.23858 6.23903 3 9.00045 3H13.0005V5H9.00045C7.3436 5 6.00045 6.34315 6.00045 8V10.5858Z"}}]})(props);
 };

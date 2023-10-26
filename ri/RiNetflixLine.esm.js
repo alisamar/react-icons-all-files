@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function RiNetflixLine (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"g","attr":{},"child":[{"tag":"path","attr":{"fill":"none","d":"M0 0h24v24H0z"}},{"tag":"path","attr":{"d":"M15.984 17.208L16 2h2v20a7.593 7.593 0 0 0-2.02-.5L8 6.302V21.5a7.335 7.335 0 0 0-2 .5V2h2l7.984 15.208z"}}]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M15.9853 17.2079L16.001 2H18.001V22C17.3209 21.7333 16.6476 21.5667 15.9809 21.5L8.00098 6.30216V21.5C7.33431 21.5667 6.66764 21.7333 6.00098 22V2H8.00098L15.9853 17.2079Z"}}]})(props);
 };

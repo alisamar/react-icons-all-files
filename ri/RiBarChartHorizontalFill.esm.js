@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function RiBarChartHorizontalFill (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"g","attr":{},"child":[{"tag":"path","attr":{"fill":"none","d":"M0 0h24v24H0z"}},{"tag":"path","attr":{"d":"M12 3v4H3V3h9zm4 14v4H3v-4h13zm6-7v4H3v-4h19z"}}]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M12 3V7H3V3H12ZM16 17V21H3V17H16ZM22 10V14H3V10H22Z"}}]})(props);
 };

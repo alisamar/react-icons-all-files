@@ -1,0 +1,5 @@
+// THIS FILE IS AUTO GENERATED
+import { GenIcon } from '../lib';
+export function PiBedFill (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 256 256","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M208,72H24V48A8,8,0,0,0,8,48V208a8,8,0,0,0,16,0V176H232v32a8,8,0,0,0,16,0V112A40,40,0,0,0,208,72ZM24,88H96v72H24Z"}}]})(props);
+};

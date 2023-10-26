@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib';
 export function GoChevronRight (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 8 16"},"child":[{"tag":"path","attr":{"fillRule":"evenodd","d":"M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"}}]})(props);
 };
