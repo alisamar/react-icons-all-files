@@ -1,3 +1,3 @@
 // THIS FILE IS AUTO GENERATED
 import { IconTree, IconType } from '../lib'
-export declare const GiJetpack: IconType;
+export declare const GiJetPack: IconType;
