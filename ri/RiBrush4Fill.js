@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.RiBrush4Fill = function RiBrush4Fill (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"g","attr":{},"child":[{"tag":"path","attr":{"fill":"none","d":"M0 0h24v24H0z"}},{"tag":"path","attr":{"d":"M20 16H4v2h16v-2zM3 14V4a1 1 0 0 1 1-1h3v8.273h2V3h11a1 1 0 0 1 1 1v10h1v5a1 1 0 0 1-1 1h-8v3h-2v-3H3a1 1 0 0 1-1-1v-5h1z"}}]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M20 15.9966H4V17.9966H20V15.9966ZM3 13.9966V3.99658C3 3.4443 3.44772 2.99658 4 2.99658H7V11.2693H9V2.99658H20C20.5523 2.99658 21 3.4443 21 3.99658V13.9966H22V18.9966C22 19.5489 21.5523 19.9966 21 19.9966H13V22.9966H11V19.9966H3C2.44772 19.9966 2 19.5489 2 18.9966V13.9966H3Z"}}]})(props);
 };

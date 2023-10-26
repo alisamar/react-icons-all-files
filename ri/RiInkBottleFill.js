@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.RiInkBottleFill = function RiInkBottleFill (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"g","attr":{},"child":[{"tag":"path","attr":{"fill":"none","d":"M0 0H24V24H0z"}},{"tag":"path","attr":{"d":"M16 9l4.371 1.749c.38.151.629.52.629.928V21c0 .552-.448 1-1 1H4c-.552 0-1-.448-1-1v-9.323c0-.409.249-.777.629-.928L8 9h8zm4 5H8v5h12v-5zM16 3c.552 0 1 .448 1 1v4H7V4c0-.552.448-1 1-1h8z"}}]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M16 8.99658L20.3714 10.7451C20.751 10.897 21 11.2647 21 11.6736V20.9966C21 21.5489 20.5523 21.9966 20 21.9966H4C3.44772 21.9966 3 21.5489 3 20.9966V11.6736C3 11.2647 3.24895 10.897 3.62861 10.7451L8 8.99658H16ZM20 13.9966H8V18.9966H20V13.9966ZM16 2.99658C16.5523 2.99658 17 3.4443 17 3.99658V7.99658H7V3.99658C7 3.4443 7.44772 2.99658 8 2.99658H16Z"}}]})(props);
 };
