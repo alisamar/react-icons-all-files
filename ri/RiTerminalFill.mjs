@@ -1,0 +1,5 @@
+// THIS FILE IS AUTO GENERATED
+import { GenIcon } from '../lib/index.mjs';
+export function RiTerminalFill (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M10.9999 11.9998L3.92886 19.0708L2.51465 17.6566L8.1715 11.9998L2.51465 6.34292L3.92886 4.92871L10.9999 11.9998ZM10.9999 18.9998H20.9999V20.9998H10.9999V18.9998Z"},"child":[]}]})(props);
+};

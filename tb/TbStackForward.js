@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbStackForward = function TbStackForward (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M12 5l-8 4l8 4l8 -4l-8 -4","fill":"currentColor"}},{"tag":"path","attr":{"d":"M10 12l-6 3l8 4l8 -4l-6 -3"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M12 5l-8 4l8 4l8 -4l-8 -4","fill":"currentColor"},"child":[]},{"tag":"path","attr":{"d":"M10 12l-6 3l8 4l8 -4l-6 -3"},"child":[]}]})(props);
 };

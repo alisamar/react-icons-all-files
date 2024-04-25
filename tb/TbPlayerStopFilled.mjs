@@ -1,0 +1,5 @@
+// THIS FILE IS AUTO GENERATED
+import { GenIcon } from '../lib/index.mjs';
+export function TbPlayerStopFilled (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M17 4h-10a3 3 0 0 0 -3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3 -3v-10a3 3 0 0 0 -3 -3z","strokeWidth":"0","fill":"currentColor"},"child":[]}]})(props);
+};

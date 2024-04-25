@@ -1,5 +1,0 @@
-// THIS FILE IS AUTO GENERATED
-import { GenIcon } from '../lib';
-export function TbHeartCancel (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"}},{"tag":"path","attr":{"d":"M12 20l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 0 1 7.993 6.01"}},{"tag":"path","attr":{"d":"M19 19m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"}},{"tag":"path","attr":{"d":"M17 21l4 -4"}}]})(props);
-};

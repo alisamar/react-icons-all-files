@@ -1,5 +1,0 @@
-// THIS FILE IS AUTO GENERATED
-import { GenIcon } from '../lib';
-export function RiCornerLeftDownFill (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M10.0003 5.00014L19.0001 5L19.0002 7L12.0003 7.00011L12.0002 14.5862H17.4144L11.0001 21.0004L4.58594 14.5862L10.0002 14.5862L10.0003 5.00014Z"}}]})(props);
-};

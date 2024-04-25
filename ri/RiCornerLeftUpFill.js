@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.RiCornerLeftUpFill = function RiCornerLeftUpFill (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M10.0003 19.0003L19.0001 19.0004L19.0002 17.0004L12.0003 17.0003L12.0002 9.41421H17.4144L11.0001 3L4.58594 9.41421L10.0002 9.41421L10.0003 19.0003Z"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M10.0003 19.0003L19.0001 19.0004L19.0002 17.0004L12.0003 17.0003L12.0002 9.41421H17.4144L11.0001 3L4.58594 9.41421L10.0002 9.41421L10.0003 19.0003Z"},"child":[]}]})(props);
 };
