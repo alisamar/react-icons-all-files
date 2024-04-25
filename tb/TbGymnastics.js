@@ -1,0 +1,5 @@
+// THIS FILE IS AUTO GENERATED
+var GenIcon = require('../lib').GenIcon
+module.exports.TbGymnastics = function TbGymnastics (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M7 7a1 1 0 1 0 2 0a1 1 0 0 0 -2 0"},"child":[]},{"tag":"path","attr":{"d":"M13 21l1 -9l7 -6"},"child":[]},{"tag":"path","attr":{"d":"M3 11h6l5 1"},"child":[]},{"tag":"path","attr":{"d":"M11.5 8.5l4.5 -3.5"},"child":[]}]})(props);
+};
