@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib/index.mjs';
 export function SiHexlet (props) {
-  return GenIcon({"tag":"svg","attr":{"role":"img","viewBox":"0 0 24 24"},"child":[{"tag":"title","attr":{},"child":[]},{"tag":"path","attr":{"d":"M16.732 7.099v6.422H7.268V7.099L4.563 6.085V24h2.705v-7.775h9.464V24h2.705V6.085l-2.705 1.014Zm3.043-4.057L12 0 4.225 3.042 12 5.746l7.775-2.704Z"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"role":"img","viewBox":"0 0 24 24"},"child":[{"tag":"path","attr":{"d":"M16.732 7.099v6.422H7.268V7.099L4.563 6.085V24h2.705v-7.775h9.464V24h2.705V6.085l-2.705 1.014Zm3.043-4.057L12 0 4.225 3.042 12 5.746l7.775-2.704Z"},"child":[]}]})(props);
 };
