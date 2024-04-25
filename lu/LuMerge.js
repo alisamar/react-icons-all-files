@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.LuMerge = function LuMerge (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"d":"m8 6 4-4 4 4"}},{"tag":"path","attr":{"d":"M12 2v10.3a4 4 0 0 1-1.172 2.872L4 22"}},{"tag":"path","attr":{"d":"m20 22-5-5"}}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"d":"m8 6 4-4 4 4"},"child":[]},{"tag":"path","attr":{"d":"M12 2v10.3a4 4 0 0 1-1.172 2.872L4 22"},"child":[]},{"tag":"path","attr":{"d":"m20 22-5-5"},"child":[]}]})(props);
 };
