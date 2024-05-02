@@ -1,3 +1,3 @@
 // THIS FILE IS AUTO GENERATED
 import { IconTree, IconType } from '../lib/index.mjs'
-export declare const RiP2PLine: IconType;
+export declare const RiP2pLine: IconType;

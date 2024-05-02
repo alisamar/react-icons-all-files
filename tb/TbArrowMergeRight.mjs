@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib/index.mjs';
 export function TbArrowMergeRight (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M16 8l-4 -4l-4 4"},"child":[]},{"tag":"path","attr":{"d":"M12 20v-16"},"child":[]},{"tag":"path","attr":{"d":"M18 18c-4 -1.333 -6 -4.667 -6 -10"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"d":"M16 8l-4 -4l-4 4"},"child":[]},{"tag":"path","attr":{"d":"M12 20v-16"},"child":[]},{"tag":"path","attr":{"d":"M18 18c-4 -1.333 -6 -4.667 -6 -10"},"child":[]}]})(props);
 };
