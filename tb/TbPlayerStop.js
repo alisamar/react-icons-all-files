@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbPlayerStop = function TbPlayerStop (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M5 5m0 2a2 2 0 0 1 2 -2h10a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-10a2 2 0 0 1 -2 -2z"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M17 4h-10a3 3 0 0 0 -3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3 -3v-10a3 3 0 0 0 -3 -3z"},"child":[]}]})(props);
 };

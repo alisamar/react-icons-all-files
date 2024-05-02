@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbMagnet = function TbMagnet (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M4 13v-8a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v8a2 2 0 0 0 6 0v-8a2 2 0 0 1 2 -2h1a2 2 0 0 1 2 2v8a8 8 0 0 1 -16 0"},"child":[]},{"tag":"path","attr":{"d":"M4 8l5 0"},"child":[]},{"tag":"path","attr":{"d":"M15 8l4 0"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M21 9v4a9 9 0 0 1 -18 0v-4h7v4a2 2 0 1 0 4 0v-4zm-3 -7a3 3 0 0 1 3 3v2h-7v-2a3 3 0 0 1 3 -3zm-11 0a3 3 0 0 1 3 3v2h-7v-2a3 3 0 0 1 3 -3z"},"child":[]}]})(props);
 };

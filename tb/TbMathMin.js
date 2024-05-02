@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbMathMin = function TbMathMin (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M12 17a2 2 0 1 1 0 4a2 2 0 0 1 0 -4z"},"child":[]},{"tag":"path","attr":{"d":"M3 4c0 8.75 4 14 7 14.5"},"child":[]},{"tag":"path","attr":{"d":"M14 18.5c3 -.5 7 -5.75 7 -14.5"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"d":"M15 18a2 2 0 1 0 4 0a2 2 0 0 0 -4 0"},"child":[]},{"tag":"path","attr":{"d":"M3 13s1 -9 4 -9c2.48 0 5.643 9.565 8.36 12.883"},"child":[]},{"tag":"path","attr":{"d":"M18.748 17.038c.702 -.88 1.452 -3.56 2.252 -8.038"},"child":[]}]})(props);
 };

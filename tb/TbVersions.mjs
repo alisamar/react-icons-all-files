@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 import { GenIcon } from '../lib/index.mjs';
 export function TbVersions (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M10 5m0 2a2 2 0 0 1 2 -2h6a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-6a2 2 0 0 1 -2 -2z"},"child":[]},{"tag":"path","attr":{"d":"M7 7l0 10"},"child":[]},{"tag":"path","attr":{"d":"M4 8l0 8"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M18 4h-6a3 3 0 0 0 -3 3v10a3 3 0 0 0 3 3h6a3 3 0 0 0 3 -3v-10a3 3 0 0 0 -3 -3z"},"child":[]},{"tag":"path","attr":{"d":"M7 6a1 1 0 0 1 .993 .883l.007 .117v10a1 1 0 0 1 -1.993 .117l-.007 -.117v-10a1 1 0 0 1 1 -1z"},"child":[]},{"tag":"path","attr":{"d":"M4 7a1 1 0 0 1 .993 .883l.007 .117v8a1 1 0 0 1 -1.993 .117l-.007 -.117v-8a1 1 0 0 1 1 -1z"},"child":[]}]})(props);
 };

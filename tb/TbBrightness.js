@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.TbBrightness = function TbBrightness (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","strokeWidth":"2","stroke":"currentColor","fill":"none","strokeLinecap":"round","strokeLinejoin":"round"},"child":[{"tag":"path","attr":{"stroke":"none","d":"M0 0h24v24H0z","fill":"none"},"child":[]},{"tag":"path","attr":{"d":"M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"},"child":[]},{"tag":"path","attr":{"d":"M12 3l0 18"},"child":[]},{"tag":"path","attr":{"d":"M12 9l4.65 -4.65"},"child":[]},{"tag":"path","attr":{"d":"M12 14.3l7.37 -7.37"},"child":[]},{"tag":"path","attr":{"d":"M12 19.6l8.85 -8.85"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 24 24","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M17 3.34a10 10 0 1 1 -15 8.66l.005 -.324a10 10 0 0 1 14.995 -8.336m-9 1.732a8 8 0 0 0 4.001 14.928l-.001 -16a8 8 0 0 0 -4 1.072"},"child":[]}]})(props);
 };

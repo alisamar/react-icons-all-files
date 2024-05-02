@@ -1,3 +1,3 @@
 // THIS FILE IS AUTO GENERATED
 import { IconTree, IconType } from '../lib/index.mjs'
-export declare const MdOutline6KPlus: IconType;
+export declare const MdOutline6kPlus: IconType;

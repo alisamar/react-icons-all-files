@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.PiSquareFill = function PiSquareFill (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 256 256","fill":"currentColor"},"child":[{"tag":"rect","attr":{"x":"32","y":"32","width":"192","height":"192","rx":"16"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 256 256","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M224,48V208a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V48A16,16,0,0,1,48,32H208A16,16,0,0,1,224,48Z"},"child":[]}]})(props);
 };

@@ -1,5 +1,5 @@
 // THIS FILE IS AUTO GENERATED
 var GenIcon = require('../lib').GenIcon
 module.exports.PiRecordBold = function PiRecordBold (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 256 256","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M128,20A108,108,0,1,0,236,128,108.12,108.12,0,0,0,128,20Zm0,192a84,84,0,1,1,84-84A84.09,84.09,0,0,1,128,212Zm0-152a68,68,0,1,0,68,68A68.07,68.07,0,0,0,128,60Zm0,112a44,44,0,1,1,44-44A44.05,44.05,0,0,1,128,172Z"},"child":[]}]})(props);
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 256 256","fill":"currentColor"},"child":[{"tag":"path","attr":{"d":"M128,20A108,108,0,1,0,236,128,108.12,108.12,0,0,0,128,20Zm0,192a84,84,0,1,1,84-84A84.09,84.09,0,0,1,128,212Zm0-148a64,64,0,1,0,64,64A64.07,64.07,0,0,0,128,64Zm0,104a40,40,0,1,1,40-40A40,40,0,0,1,128,168Z"},"child":[]}]})(props);
 };
